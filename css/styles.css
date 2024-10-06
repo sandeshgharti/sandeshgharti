@@ -187,8 +187,8 @@ footer .container {
 }
 .services_conatainer {
   display: flex;
-  justify-content: space-around;
-  gap: 2rem;
+  justify-content: center;
+  gap: 6rem;
 }
 .grid_item {
   display: flex;

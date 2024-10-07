@@ -95,6 +95,7 @@ section {
   padding: 3rem 0;
   max-height: 95vh;
   border-bottom: 0.5rem solid #3c7dbe;
+  min-height: fit-content;
 }
 .hero_container {
   display: flex;

@@ -48,7 +48,6 @@ html {
   scroll-behavior: smooth;
   color: white;
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 body {
   font-size: 1.4rem;

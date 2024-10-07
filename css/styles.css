@@ -110,7 +110,6 @@ section {
   border-radius: 30rem;
   object-fit: fill;
   max-height: 85vh;
-  min-height: fit-content;
 }
 .hero_img {
   width: fit-content;

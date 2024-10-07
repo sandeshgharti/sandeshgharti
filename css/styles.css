@@ -278,9 +278,6 @@ footer .container {
   html {
     font-size: 40%;
   }
-  .container{
-    max-width: 100%;
-  }
   .hero-content{
     flex-direction: column;
     gap: 1rem;
